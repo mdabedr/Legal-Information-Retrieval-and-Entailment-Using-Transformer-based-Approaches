@@ -1,0 +1,276 @@
+tag:0
+9
+<premise>
+(mistakes)
+article 95 (3) if a mistake is due to gross negligence on the part of the person making the manifestation of intention, that person may not rescind a manifestation of intention as under paragraph (1), except in the following cases:
+(ii) if the other party was under the same mistake as the person making the manifestation of intention.
+</premise>
+
+<hypothesis>
+ the manifestation of intention based on the mistake may not be rescinded if the mistake is due to gross negligence on the part of the person making the manifestation of intention, and the other party is under the same mistake as the person making the manifestation of intention.
+ </hypothesis>
+
+ 
+tag:0
+18
+<premise>
+(merger of rights)
+article 179 (1) if ownership and another real right on the same thing are acquired by the same person, the other real right is extinguished;provided, however, that this does not apply if that thing or the other real right is the object of the right of a third party.
+</premise>
+
+<hypothesis>
+ a created the first-ranked mortgage for the benefit of b and the second-ranked mortgage for the benefit of c on land x, owned by a. in this case, if b purchases land x from a, the mortgage for b shall be extinguished.
+ </hypothesis>
+
+ 
+tag:0
+19
+<premise>
+(merger of rights)
+article 179 (1) if ownership and another real right on the same thing are acquired by the same person, the other real right is extinguished;provided, however, that this does not apply if that thing or the other real right is the object of the right of a third party.
+</premise>
+
+<hypothesis>
+ a created the superficies on land x, owned by a, for the benefit of b, and b created the mortgage on the superficies for the benefit of c. in this case, if a dies and b is the only heir, the superficies for b shall be extinguished.
+ </hypothesis>
+
+ 
+tag:0
+29
+<premise>
+(extension of security interest to proceeds of collateral)
+article 304 (1) a statutory lien may also be exercised against things including monies that the obligor is to receive as a result of the sale, lease or loss of, or damage to, the subject matter of the statutory lien;provided, however, that the holder of the statutory lien must attach the same before the payment or delivery of the monies or other thing.
+</premise>
+
+<hypothesis>
+ the holder of the right of retention may also exercise the right of the retention over the insurance claim which the obligor should receive because of the loss of the thing retained, by attaching the same.
+ </hypothesis>
+
+ 
+tag:0
+31
+<premise>
+(content of statutory liens)
+article 303 the holder of a statutory lien has the rights to have that holder's own claim satisfied prior to other obligees out of the assets of the relevant obligor in accordance with the provisions of laws including this act.
+</premise>
+
+<hypothesis>
+ a sold mechanical tool x, owned by a, to b and delivered x to b. in this case, if b does not perform the payment obligation even after the due date arrives, a may claim for the delivery of x against b based on statutory liens.
+ </hypothesis>
+
+ 
+tag:0
+38
+<premise>
+(auction of buildings on mortgaged lands)
+article 389 (1) if a building is constructed on a mortgaged land after the creation of a mortgage, the mortgagee may auction the building together with the land;provided, however, that the right of priority of that mortgagee may be exercised solely against the proceeds of the land.
+</premise>
+
+<hypothesis>
+ a created a mortgage on land x, which was vacant land and owned by a, for the benefit of b, and thereafter built building y on land x. in this case, if b enforces the mortgage and auctions land x and building y at once, b may receive preferential payment from proceeds of the sale of building y.
+ </hypothesis>
+
+ 
+tag:0
+43
+<premise>
+(transfer of risk for loss of subject matter)
+article 567 (2) the preceding paragraph also applies if the seller tenders the performance of the obligation of delivery by delivering the subject matter that conforms to the terms of the contract, but the buyer refuses to accept or is unable to accept the performance, and the subject matter is lost or damaged after the time of the tender of the performance due to any grounds not attributable to either party.
+</premise>
+
+<hypothesis>
+ a seller of a specific thing tendered the performance of the obligation of the delivery of the subject matter. the buyer refused to accept the subject matter, and thereafter the subject matter was lost due to grounds attributable to neither the seller nor the buyer. in this case, the buyer may cancel the contract.
+ </hypothesis>
+
+ 
+tag:0
+46
+<premise>
+(obligee's right of subrogation to preserve the right to request registration)
+article 423-7 a person that has acquired by assignment from another person a property for which the acquisition or loss of rights and the change to rights cannot be duly asserted against a third party unless registered may exercise the assignor's right to request a third party to complete the registration procedure if the assignor does not exercise that right. in such a case, the provisions of the preceding three articles apply mutatis mutandis.
+</premise>
+
+<hypothesis>
+ b purchased the land from its owner c and resold it to a. in this case, if b does not exercise the right to request the registration of the transfer of the ownership against c, a may request c directly transfer the registration to a based on the obligee’s right of subrogation to preserve the claim of a against b.
+ </hypothesis>
+
+ 
+tag:0
+48
+<premise>
+(right to reimbursement of guarantor guaranteeing without request by principal obligor)
+article 462 (1) the provisions of article 459-2, paragraph (1) apply mutatis mutandis if a person, that has given guarantee without the request of the principal obligor, performs an act for extinguishment of obligation.
+(2) a person that has become a guarantor against the will of the principal obligor has the right to reimbursement only to the extent currently enriched.in this case, if the principal obligor asserts to have grounds for set-off against the obligee prior to the day of the demand for reimbursement, the guarantor may demand that the obligee perform the obligation which would have been extinguished by that set-off.
+(right to reimbursement in case of guarantor guaranteeing by request who performed obligation before due date)
+article 459-2(1) if a guarantor gives a guarantee as requested by the principal obligor and performs an act for extinguishment of obligation before the due date of the principal obligation, the guarantor has the right to reimbursement from the principal obligor to the extent that the principal obligor was enriched at the time of the act. in such a case, if the principal obligor alleges to have had grounds for set-off prior to the day of the act for extinguishment of obligation, the guarantor may request the obligee to perform the obligation which should have been extinguished due to the set-off.
+</premise>
+
+<hypothesis>
+ in the case where the guarantee was given against the will of the principal obligor, the guarantor who performed the guarantee obligation has the right to reimbursement to the extent that the principal obligor was enriched at the time of the performance.
+ </hypothesis>
+
+ 
+tag:0
+49
+<premise>
+(limitation on reimbursement for guarantor who failed to give notice)
+article 463 (2) if a guarantor gives a guarantee as requested by the principal obligor and performs an act for extinguishment of obligation in good faith because of the principal obligor's failure to notify the guarantor of the principal obligor's performance of an act for extinguishment of obligation, the guarantor may deem that the guarantor's own act for extinguishment of obligation is valid.
+</premise>
+
+<hypothesis>
+ in the case where the guarantee was given without the request of the principal obligor, the principal obligor performed the obligation but did not notify the guarantor of the fact. in this case, if the guarantor performed the obligation of the guarantee without knowing the performance by the principal obligor, the guarantor may deem that the performance is valid.
+ </hypothesis>
+
+ 
+tag:0
+51
+<premise>
+(right of joint guarantors to reimbursement for one obligation)
+article 465(1) if there are multiple guarantors, and one guarantor has paid the entire amount of the obligation or any amount exceeding that guarantor's share because the principal obligation is indivisible, or because there is a special provision to the effect that each guarantor should pay the entire amount, the provisions of articles 442 through 444 apply mutatis mutandis.
+(right to reimbursement among joint and several obligors)
+article 442(1) if one of the joint and several obligors performs the obligation or otherwise obtain a common discharge in exchange for that obligor's own property, the joint and several obligor has the right to reimbursement from other joint and several obligors for the amounts in proportion to their respective shares of the obligation of the amount of the property expended by the joint and several obligor in order to obtain the discharge (if the amount of property exceeds the amount after the common discharge, the amount thus discharged), regardless of whether the amount discharged exceeds the amount of the joint and several obligor's own share.
+</premise>
+
+<hypothesis>
+ in the case where one of the multiple jointly and severally liable guarantors performed the guarantee obligation, the guarantor may claim the reimbursement against the other jointly and severally liable guarantors regardless of whether the amount exceeded the guarantor’s own share.
+ </hypothesis>
+
+ 
+tag:0
+52
+<premise>
+(assignability of claim yet to arise)
+article 466-6 (2) if a claim is assigned, and the claim is yet to arise by the time of the manifestation of intention to assign it, the assignee by operation of law acquires the claim when it arises.
+(3) in the case prescribed in the preceding paragraph, if the assignor makes the manifestation of intention to restrict assignment by the time when the assignor gives notice under the provisions of the following article or the obligor gives consent under the provisions of that article (hereinafter referred to as the "time of completion of perfection"), a third party such as the assignee is deemed to have known this, and the provisions of article 466, paragraph (3) (or paragraph (1) of the preceding article if the claim subject to the manifestation of intention to restrict assignment is a claim for deposits) apply thereto.
+(assignability of claims)
+article 466 (3) in the case prescribed in the preceding paragraph, the obligor may refuse to perform the obligation to a third party such as the assignee that knew or did not know due to gross negligence that the manifestation of intention to restrict assignment was made, and may duly assert against such third party any event that results in extinguishment of the obligation such as payment to the assignor.
+</premise>
+
+<hypothesis>
+ a assigned claim x, the claim of the payment of the sales price against b, which should be arisen in the future, to c and notified b of the assignment. then a and b made a special agreement prohibiting the assignment of claim x, and thereafter claim x arose. in this case, b may deem that c knew the existence of the special agreement and may refuse to perform the obligation.
+ </hypothesis>
+
+ 
+tag:0
+66
+<premise>
+(cancellation of contract by party ordering work)
+article 641 the party ordering work may cancel the contract at any time whilst the contractor has not completed the work by paying compensation for loss or damage.
+(cancellation on commencement of bankruptcy proceeding for party ordering work)
+article 642 (1) if the party ordering work receives an order commencing bankruptcy proceeding, the contractor or the bankruptcy trustee may cancel the contract;provided, however, that this does not apply to the cancellation of the contract by the contractor after the work is completed.
+</premise>
+
+<hypothesis>
+ the contractor may cancel the contract for work at any time whilst the contractor has not completed the work by paying compensation for loss or damage.
+ </hypothesis>
+
+ 
+tag:0
+74
+<premise>
+(loan for consumption made in writing)
+article 587-2 (2) the borrower of a loan for consumption made in writing may cancel the contract until the borrower receives the money or other thing from the lender. in such a case, if the lender sustains any damage from the cancellation of the contract, the lender may claim compensation therefor.
+</premise>
+
+<hypothesis>
+ a loan for consumption made in writing may be cancelled by either party until the borrower receives the subject matter from the lender.
+ </hypothesis>
+
+ 
+tag:0
+80
+<premise>
+(content of rights of retention)
+article 295 (1) if a possessor of a thing belonging to another person has a claim that has arisen in relation to that thing, that possessor may retain that thing until that claim is satisfied;provided, however, that this does not apply if the relevant claim has not yet fallen due.
+article 622-2 (1) if a lessor receives a security deposit (meaning money to be delivered by the lessee to the lessor under any name, for the purpose of securing an obligation to pay money that is owed by the lessee to the lessor based on a lease, such as an obligation to pay rent; hereinafter the same applies in this article), the lessor must return to the lessee the amount that remains after deducting the amount of the obligation to pay money that is owed by the lessee to the lessor based on the lease, from the amount of security deposit received, in the following cases:
+(i) if the lease is terminated, and the lessor receives the return of the leased thing; or
+</premise>
+
+<hypothesis>
+ a leased building x from b owned by b and delivered security deposit to b, and the lease was terminated. in this case, a may retain building x until the security deposit is returned.
+ </hypothesis>
+
+ 
+tag:1
+2
+<premise>
+(juridical acts by minors)
+article 5 (1) a minor must obtain the consent of the minor's legal representative to perform a juridical act;provided, however, that this does not apply to a juridical act for merely acquiring a right or being released from an obligation.
+(2) a juridical act in contravention of the provisions of the preceding paragraph is voidable.
+(requirements for ratification)
+article 124 (1) the ratification of a voidable act does not become effective unless it is made after the circumstances that made the act voidable cease to exist and the person ratifying the act becomes aware of the right to rescind it.
+(2) in the following cases, the ratification referred to in the preceding paragraph is not required to be made after the circumstances that made the act voidable cease to exist:
+(ii) if a person with qualified legal capacity (excluding an adult ward) makes the ratification with the consent of a legal representative, curator or assistant.
+</premise>
+
+<hypothesis>
+ when a minor concludes a contract without obtaining the consent of the person who has the parental authority, the minor may not personally ratify the contract without the consent of the person who has the parental authority until the minor has attained the age of majority.
+ </hypothesis>
+
+ 
+tag:1
+10
+<premise>
+(fraud or duress)
+article 96 (1) a manifestation of intention based on fraud or duress is voidable.
+(2) if a third party commits a fraud inducing a first party to make a manifestation of intention to a second party, that manifestation of intention is voidable only if the second party knew or could have known that fact.
+</premise>
+
+<hypothesis>
+ if a third party commits duress forcing a first party to make a manifestation of intention to a second party, that manifestation of intention is voidable even if the second party could not have known that fact.
+ </hypothesis>
+
+ 
+tag:1
+11
+<premise>
+(holder of right to rescind)
+article 120 (1) an act that is voidable on the grounds of the qualified legal capacity to act of the person who did the act may be rescinded only by the person with qualified legal capacity (in the case of an act performed by the person as a legal representative of another person with limited capacity, including that other person with limited capacity), or an agent or successor thereof, or a person who has the authority to give consent thereto.
+(2) an act that is voidable on the grounds of a mistake, fraud or duress may be rescinded only by the person who made the defective manifestation of intention, or an agent or successor thereof.
+</premise>
+
+<hypothesis>
+ a guarantor of an obligation arising from a judicial act which may be voidable may not rescind the judicial act.
+ </hypothesis>
+
+ 
+tag:1
+70
+<premise>
+(earnest money)
+article 557 (1) if the buyer pays earnest money to the seller, the buyer may cancel the contract by waiving the earnest money, or the seller may cancel the contract by actually providing the buyer with twice its amount;provided, however, that this does not apply after the counterparty commences performance of the contract.
+</premise>
+
+<hypothesis>
+ the buyer may cancel the contract by an earnest money for cancellation until the seller commences performance of the contract even if the buyer commences performance of the contract.
+ </hypothesis>
+
+ 
+tag:1
+72
+<premise>
+(earnest money)
+article 557 (2) the provisions of article 545, paragraph (4) do not apply to the cases referred to in the preceding paragraph.
+(effect of cancellation)
+article 545 (4) the exercise of the right to cancel does not preclude claims for compensation for loss or damage.
+</premise>
+
+<hypothesis>
+ when the buyer cancels the contract by the earnest money for cancellation, the buyer is not liable to compensate for damage even if the damage in excess of the amount of the earnest money has been sustained by the seller.
+ </hypothesis>
+
+ 
+tag:1
+87
+<premise>
+(mutatis mutandis application of provisions on mandates)
+article 701 the provisions of article 645 through article 647 apply mutatis mutandis to the benevolent intervention in another's business.
+(mandatary's claims for reimbursement of expense)
+article 650 (3) if a mandatary incurs loss or damage that is not due to the negligence of the mandatary in order to administer the mandated business, the mandatary may claim compensation for this from the mandator.
+</premise>
+
+<hypothesis>
+ even if a manager incurs loss or damage that is not due to the negligence of the manager in order to engage in the benevolent intervention in another's business, the manager may not claim compensation for this from the principal.
+ </hypothesis>
+
+ 

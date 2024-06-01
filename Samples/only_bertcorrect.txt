@@ -1,0 +1,63 @@
+tag:0
+<premise>
+(juridical acts by adult wards under guardianship)
+article 9 a juridical act performed by an adult ward is voidable;provided, however, that this does not apply to the purchase of daily necessities or to any other act involved in day-to-day life.
+(agent's capacity to act)
+article 102 an act that a person with qualified legal capacity performs as an agent of another person may not be rescinded on the grounds of qualified legal capacity;provided, however, that this does not apply to an act performed by a person with qualified legal capacity as a legal representative of another person with qualified legal capacity.
+</premise>
+
+<hypothesis>
+ an act that a, an adult ward, performs as legal representative of b, a minor, may not be rescinded on the grounds of qualified legal capacity of a.
+ </hypothesis>
+
+ 
+tag:0
+<premise>
+(prohibition of effecting set-offs against claims arising from tortious acts as passive sett-off claim)
+article 509 the obligor of either of the following obligations may not duly assert a set-off against the obligee;provided, however, that this does not apply if the obligee acquires a claim corresponding to the relevant obligation from another person:
+(i) an obligation for compensation for loss or damage based on a tort committed in bad faith; or
+(ii) an obligation for compensation for loss or damage for death or injury to person (excluding the one set forth in the preceding item).
+</premise>
+
+<hypothesis>
+ victim a, who was injured by the tort, may not use the claim for compensation for the damage against perpetrator b to assert set-off, against the loan claim of b against a.
+ </hypothesis>
+
+ 
+tag:1
+<premise>
+(actual delivery and summary delivery)
+article 182
+(2) if a transferee or the agent of a transferee is actually holding the thing under possession, the transfer of possessory rights may be effected by the parties' manifestations of intention alone.
+(requirements of perfection of transfer of real rights concerning movables)
+article 178 the transfer of a real right on movables may not be duly asserted against a third party, unless the movables are delivered.
+</premise>
+
+<hypothesis>
+ b kept painting x, owned by a, from a and possessed it. thereafter b purchased x from a, and a and b manifested an intention to transfer the possession to b. in this case, b may duly assert the acquisition of the ownership of x against any third parties.
+ </hypothesis>
+
+ 
+tag:1
+<premise>
+(obligee's delay in acceptance)
+article 413 (2) if the obligee's refusal or inability to accept the performance of an obligation results in increasing the expenses for the performance, the amount of increase is borne by the obligee.
+</premise>
+
+<hypothesis>
+ a seller of a specific thing tendered the performance of the obligation of the delivery of the subject matter. in this case, if the buyer is not able to accept the subject matter, the buyer must bear the cost required for the seller to continue to keep the subject matter in custody.
+ </hypothesis>
+
+ 
+tag:1
+<premise>
+(assignability of claims)
+article 466 (2) even if a party to a claim manifests the intention to prohibit or restrict the assignment of the claim (hereinafter referred to as the "manifestation of intention to restrict assignment"), the validity of the assignment of the claim is not impaired.
+(3) in the case prescribed in the preceding paragraph, the obligor may refuse to perform the obligation to a third party such as the assignee that knew or did not know due to gross negligence that the manifestation of intention to restrict assignment was made, and may duly assert against such third party any event that results in extinguishment of the obligation such as payment to the assignor.
+</premise>
+
+<hypothesis>
+ claim x, the claim of the payment of the sales price of a against b, has a special agreement prohibiting the assignment, but c acquired claim x and assigned it to d while knowing the existence of the special agreement prohibiting the assignment. in this case, if d does not know the existence of the special agreement without gross negligence, b may not refuse to perform the obligation to d based on the special agreement prohibiting the assignment.
+ </hypothesis>
+
+ 

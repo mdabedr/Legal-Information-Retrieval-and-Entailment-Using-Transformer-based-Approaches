@@ -1,0 +1,52 @@
+tag:0
+7
+<premise>
+(juridical acts by minors)
+article 5 (1) a minor must obtain the consent of the minor's legal representative to perform a juridical act;provided, however, that this does not apply to a juridical act for merely acquiring a right or being released from an obligation.
+(2) a juridical act in contravention of the provisions of the preceding paragraph is voidable.
+(right to demand of the other party to dealings involving a person with qualified legal capacity)
+article 20 (1) after a person with qualified legal capacity who is involved in dealings with another party becomes a person with the legal capacity to act (meaning a person whose legal capacity to act is not subject to restrictions; the same applies hereinafter), the other party to those dealings may fix a period of one month or longer and demand that the person give a definite answer within that period of time as to whether the person will ratify an act that the person may rescind. in such a case, if the person fails to send a definite answer within that period of time, the person is deemed to have ratified that act.
+(2) the second sentence of the preceding paragraph also applies if, before the person with qualified legal capacity becomes a person with the legal capacity to act, the other party to dealings involving the person with qualified legal capacity lodges the demand prescribed in the preceding paragraph with the legal representative, curator, or assistant of that person with respect to an act within the scope of their authority, and they fail to send a definite answer within the fixed period of time referred to in that paragraph.
+</premise>
+
+<hypothesis>
+ b, who concluded a contract with a, a minor, demanded that c, the legal representative of a, give a definite answer whether c will ratify the contract. in this case, if c fails to send a definite answer within the period of time fixed by b, c is deemed to have rescinded that act.
+ </hypothesis>
+
+ 
+tag:0
+40
+<premise>
+(obligee's delay in acceptance)
+article 413 (1) if the obligee refuses, or is unable, to accept the tender of the performance of an obligation, and the subject matter of the obligation is the delivery of a specific thing, it is sufficient for the obligor to retain the thing by exercising care identical to that the obligor exercises for the obligor's own property, during the period from the time of the tender of the performance until the delivery of the thing.
+</premise>
+
+<hypothesis>
+ a seller of a specific thing tendered the performance of the obligation of the delivery of the subject matter. in this case, if the buyer is not able to accept the subject matter, the seller must retain the thing with the due care of a prudent manager, which is determined in light of the contract and the common sense in the transaction, from the time of the tender of the performance until the completion of the delivery.
+ </hypothesis>
+
+ 
+tag:0
+71
+<premise>
+(earnest money)
+article 557 (1) if the buyer pays earnest money to the seller, the buyer may cancel the contract by waiving the earnest money, or the seller may cancel the contract by actually providing the buyer with twice its amount;provided, however, that this does not apply after the counterparty commences performance of the contract.
+</premise>
+
+<hypothesis>
+ the seller may cancel the contract by an earnest money for cancellation when the seller notifies the buyer orally that the seller reimburses twice the amount of the earnest money.
+ </hypothesis>
+
+ 
+tag:0
+84
+<premise>
+(cancellation of mandate)
+article 651 (1) a mandate may be cancelled by either party at any time.
+</premise>
+
+<hypothesis>
+ the mandator may not cancel the mandate at a time that is detrimental to the mandatary.
+ </hypothesis>
+
+ 

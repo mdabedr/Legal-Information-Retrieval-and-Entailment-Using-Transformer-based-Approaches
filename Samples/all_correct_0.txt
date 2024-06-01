@@ -1,0 +1,172 @@
+<premise>
+(juridical acts by minors)
+article 5 (1) a minor must obtain the consent of the minor's legal representative to perform a juridical act;provided, however, that this does not apply to a juridical act for merely acquiring a right or being released from an obligation.
+(2) a juridical act in contravention of the provisions of the preceding paragraph is voidable.
+(permission for minors to conduct business)
+article 6 (1) a minor who is permitted to conduct one or multiple types of business has the same capacity to act as an adult as far as that business is concerned.
+</premise>
+<hypothesis>
+ (juridical acts by minors)
+article 5 (1) a minor must obtain the consent of the minor's legal representative to perform a juridical act;provided, however, that this does not apply to a juridical act for merely acquiring a right or being released from an obligation.
+(2) a juridical act in contravention of the provisions of the preceding paragraph is voidable.
+(permission for minors to conduct business)
+article 6 (1) a minor who is permitted to conduct one or multiple types of business has the same capacity to act as an adult as far as that business is concerned.
+ </hypothesis>
+ 
+<premise>
+(juridical acts by minors)
+article 5 (1) a minor must obtain the consent of the minor's legal representative to perform a juridical act;provided, however, that this does not apply to a juridical act for merely acquiring a right or being released from an obligation.
+(2) a juridical act in contravention of the provisions of the preceding paragraph is voidable.
+(holder of right to rescind)
+article 120 (1) an act that is voidable on the grounds of the qualified legal capacity to act of the person who did the act may be rescinded only by the person with qualified legal capacity (in the case of an act performed by the person as a legal representative of another person with limited capacity, including that other person with limited capacity), or an agent or successor thereof, or a person who has the authority to give consent thereto.
+</premise>
+<hypothesis>
+ (juridical acts by minors)
+article 5 (1) a minor must obtain the consent of the minor's legal representative to perform a juridical act;provided, however, that this does not apply to a juridical act for merely acquiring a right or being released from an obligation.
+(2) a juridical act in contravention of the provisions of the preceding paragraph is voidable.
+(holder of right to rescind)
+article 120 (1) an act that is voidable on the grounds of the qualified legal capacity to act of the person who did the act may be rescinded only by the person with qualified legal capacity (in the case of an act performed by the person as a legal representative of another person with limited capacity, including that other person with limited capacity), or an agent or successor thereof, or a person who has the authority to give consent thereto.
+ </hypothesis>
+ 
+<premise>
+(timing of entry into effect of manifestations of intention)
+article 97 (1) a manifestation of intention becomes effective at the time notice thereof reaches the other party.
+</premise>
+<hypothesis>
+ (timing of entry into effect of manifestations of intention)
+article 97 (1) a manifestation of intention becomes effective at the time notice thereof reaches the other party.
+ </hypothesis>
+ 
+<premise>
+(effect of rescission)
+article 121 an act that has been rescinded is deemed void ab initio.
+(obligation of restoration)
+article 121-2 (1) a person that has received payment or delivery as the performance of an obligation based on a void act has an obligation to restore the other party to the original state.
+(3) notwithstanding the provisions of paragraph (1), a person who has no mental capacity at the time of performing an act has an obligation to return to the extent currently enriched by the act. the same applies to a person who is a person with qualified legal capacity at the time of performing an act.
+</premise>
+<hypothesis>
+ (effect of rescission)
+article 121 an act that has been rescinded is deemed void ab initio.
+(obligation of restoration)
+article 121-2 (1) a person that has received payment or delivery as the performance of an obligation based on a void act has an obligation to restore the other party to the original state.
+(3) notwithstanding the provisions of paragraph (1), a person who has no mental capacity at the time of performing an act has an obligation to return to the extent currently enriched by the act. the same applies to a person who is a person with qualified legal capacity at the time of performing an act.
+ </hypothesis>
+ 
+<premise>
+(custody of thing retained by holders of rights of retention)
+article 298
+(2) the holder of the right of retention may not use, lease or provide as a security the thing retained unless that holder obtains the consent of the obligor;provided, however, that this does not apply to uses necessary for the preservation of that thing.
+(3) if the holder of a right of retention violates the provisions of the preceding two paragraphs, the obligor may demand that the right of retention be terminated.
+</premise>
+<hypothesis>
+ (custody of thing retained by holders of rights of retention)
+article 298
+(2) the holder of the right of retention may not use, lease or provide as a security the thing retained unless that holder obtains the consent of the obligor;provided, however, that this does not apply to uses necessary for the preservation of that thing.
+(3) if the holder of a right of retention violates the provisions of the preceding two paragraphs, the obligor may demand that the right of retention be terminated.
+ </hypothesis>
+ 
+<premise>
+(changes in order of priority of mortgages)
+article 374 (1) the order of priority of mortgages may be changed with the agreement of all mortgagees;provided, however, that if there are interested persons, the consent of the same must be obtained.
+</premise>
+<hypothesis>
+ (changes in order of priority of mortgages)
+article 374 (1) the order of priority of mortgages may be changed with the agreement of all mortgagees;provided, however, that if there are interested persons, the consent of the same must be obtained.
+ </hypothesis>
+ 
+<premise>
+(recovery of deposited thing)
+article 496 (1) as long as the obligee does not accept the deposit, or the judgment which pronounces that the deposit is effective does not become final and binding, the performer may recover the deposited thingy. in such case, it is deemed that no deposit has been effected.
+</premise>
+<hypothesis>
+ (recovery of deposited thing)
+article 496 (1) as long as the obligee does not accept the deposit, or the judgment which pronounces that the deposit is effective does not become final and binding, the performer may recover the deposited thingy. in such case, it is deemed that no deposit has been effected.
+ </hypothesis>
+ 
+<premise>
+(deposit)
+article 494 (1) in the following cases, a performer may deposit the subject matter of the performance with an official depository for the benefit of the obligee. in such a case, the claim is extinguished when the performer makes the deposit:
+</premise>
+<hypothesis>
+ (deposit)
+article 494 (1) in the following cases, a performer may deposit the subject matter of the performance with an official depository for the benefit of the obligee. in such a case, the claim is extinguished when the performer makes the deposit:
+ </hypothesis>
+ 
+<premise>
+(requirements for set-offs)
+article 505 (1) if two persons bear an obligation to each other that has the same kind of purpose and if both obligations are due, each obligor may be relieved from the obligation by setting off the value of that obligation against the corresponding amount of the obligation of the other obligor;provided, however, that this does not apply if the nature of the obligation does not permit such a set-off.
+(benefit of time and waiver)
+article 136 (2) the benefit of time stipulation may be waived;provided, however, that the waiver may not prejudice the interest of the counterparty.
+</premise>
+<hypothesis>
+ (requirements for set-offs)
+article 505 (1) if two persons bear an obligation to each other that has the same kind of purpose and if both obligations are due, each obligor may be relieved from the obligation by setting off the value of that obligation against the corresponding amount of the obligation of the other obligor;provided, however, that this does not apply if the nature of the obligation does not permit such a set-off.
+(benefit of time and waiver)
+article 136 (2) the benefit of time stipulation may be waived;provided, however, that the waiver may not prejudice the interest of the counterparty.
+ </hypothesis>
+ 
+<premise>
+(cancellation of bailment by bailor prior to receipt of bailed thing)
+article 657-2 (2) a gratuitous bailee may cancel the contract up until the bailee receives the bailed thing;provided, however, that this does not apply to a bailment made in writing.
+</premise>
+<hypothesis>
+ (cancellation of bailment by bailor prior to receipt of bailed thing)
+article 657-2 (2) a gratuitous bailee may cancel the contract up until the bailee receives the bailed thing;provided, however, that this does not apply to a bailment made in writing.
+ </hypothesis>
+ 
+<premise>
+(earnest money)
+article 557 (1) if the buyer pays earnest money to the seller, the buyer may cancel the contract by waiving the earnest money, or the seller may cancel the contract by actually providing the buyer with twice its amount;provided, however, that this does not apply after the counterparty commences performance of the contract.
+</premise>
+<hypothesis>
+ (earnest money)
+article 557 (1) if the buyer pays earnest money to the seller, the buyer may cancel the contract by waiving the earnest money, or the seller may cancel the contract by actually providing the buyer with twice its amount;provided, however, that this does not apply after the counterparty commences performance of the contract.
+ </hypothesis>
+ 
+<premise>
+(timing of returns)
+article 591 (2) the borrower may return the borrowed thing at any time, irrespective of whether the parties have defined the time of return of the thing.
+</premise>
+<hypothesis>
+ (timing of returns)
+article 591 (2) the borrower may return the borrowed thing at any time, irrespective of whether the parties have defined the time of return of the thing.
+ </hypothesis>
+ 
+<premise>
+(appointment of sub-mandatary)
+article 644-2 (1) a mandatary may not appoint a sub-mandatary unless the mandatary obtains the permission of the mandator or there is a compelling reason to do so.
+</premise>
+<hypothesis>
+ (appointment of sub-mandatary)
+article 644-2 (1) a mandatary may not appoint a sub-mandatary unless the mandatary obtains the permission of the mandator or there is a compelling reason to do so.
+ </hypothesis>
+ 
+<premise>
+(managers' claims for reimbursement of costs)
+article 702 (1) if a manager has incurred beneficial expenses for a principal, the manager may claim reimbursement of those costs from the principal.
+(3) if a manager has engaged in the benevolent intervention in another's business against the will of the principal, the provisions of the preceding two paragraphs apply mutatis mutandis, solely to the extent currently enriched.
+</premise>
+<hypothesis>
+ (managers' claims for reimbursement of costs)
+article 702 (1) if a manager has incurred beneficial expenses for a principal, the manager may claim reimbursement of those costs from the principal.
+(3) if a manager has engaged in the benevolent intervention in another's business against the will of the principal, the provisions of the preceding two paragraphs apply mutatis mutandis, solely to the extent currently enriched.
+ </hypothesis>
+ 
+<premise>
+(self-defense and necessity)
+article 720 (1) a person that, in response to the tortious act of another, is compelled to commit a harmful act to protect rights or legally protected interests of the person or of a third party, is not liable for compensation for loss or damage;provided, however, that this does not preclude a victim from filing a claim of compensation for loss or damage against the person that committed the tortious act.
+</premise>
+<hypothesis>
+ (self-defense and necessity)
+article 720 (1) a person that, in response to the tortious act of another, is compelled to commit a harmful act to protect rights or legally protected interests of the person or of a third party, is not liable for compensation for loss or damage;provided, however, that this does not preclude a victim from filing a claim of compensation for loss or damage against the person that committed the tortious act.
+ </hypothesis>
+ 
+<premise>
+(use of bailed thing and custody by third parties)
+article 658(1) a bailee may not use the bailed thing without obtaining the consent of the bailor.
+</premise>
+<hypothesis>
+ (use of bailed thing and custody by third parties)
+article 658(1) a bailee may not use the bailed thing without obtaining the consent of the bailor.
+ </hypothesis>
+ 

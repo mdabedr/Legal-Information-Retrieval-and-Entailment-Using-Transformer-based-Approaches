@@ -1,0 +1,25 @@
+tag:0
+99
+<premise>
+(enforcement of pledges on movables)
+article 354 if the claim of a pledgee of movables is not satisfied, the pledgee may make a request to the court seeking the immediate appropriation of the thing pledged for the satisfaction of that claim in accordance with the evaluation of an appraiser only when there are reasonable grounds.in this case, the pledgee of movables must notify the obligor in advance of the request.
+</premise>
+
+<hypothesis>
+ if the claim of a pledgee of movables is not satisfied, the pledgee may immediately appropriate the thing pledged for the satisfaction of that claim by getting the permission of the court, instead of getting the evaluation of an appraiser, only when there are reasonable grounds for not getting the evaluation of an appraiser.
+ </hypothesis>
+
+ 
+tag:1
+8
+<premise>
+(mental reservations)
+article 93 (1) the validity of a manifestation of intention is not impaired even if the person making it does so while knowing that it does not reflect that person's true intention;provided, however, that if the other party knew or could have known that the manifestation was not the true intention of the person who made it, that manifestation of intention is void.
+(2) the nullity of a manifestation of intention under the provisions of the proviso to the preceding paragraph may not be duly asserted against a third party in good faith.
+</premise>
+
+<hypothesis>
+ the nullity of a manifestation of intention based on the mental reservation may not be duly asserted against a third party in good faith with negligence.
+ </hypothesis>
+
+ 

@@ -1,0 +1,593 @@
+tag:0
+0
+<premise>
+(juridical acts by minors)
+article 5 (1) a minor must obtain the consent of the minor's legal representative to perform a juridical act;provided, however, that this does not apply to a juridical act for merely acquiring a right or being released from an obligation.
+(2) a juridical act in contravention of the provisions of the preceding paragraph is voidable.
+(permission for minors to conduct business)
+article 6 (1) a minor who is permitted to conduct one or multiple types of business has the same capacity to act as an adult as far as that business is concerned.
+</premise>
+
+<hypothesis>
+ a juridical act by a minor who is permitted to conduct business may not be rescinded even if the judicial act does not concern the business.
+ </hypothesis>
+
+ 
+tag:0
+1
+<premise>
+(juridical acts by minors)
+article 5 (1) a minor must obtain the consent of the minor's legal representative to perform a juridical act;provided, however, that this does not apply to a juridical act for merely acquiring a right or being released from an obligation.
+(2) a juridical act in contravention of the provisions of the preceding paragraph is voidable.
+(holder of right to rescind)
+article 120 (1) an act that is voidable on the grounds of the qualified legal capacity to act of the person who did the act may be rescinded only by the person with qualified legal capacity (in the case of an act performed by the person as a legal representative of another person with limited capacity, including that other person with limited capacity), or an agent or successor thereof, or a person who has the authority to give consent thereto.
+</premise>
+
+<hypothesis>
+ when a minor concludes a contract without obtaining the consent of the person who has the parental authority, the minor may not personally rescind the contract without the consent of the person who has the parental authority until the minor has attained the age of majority.
+ </hypothesis>
+
+ 
+tag:0
+6
+<premise>
+(timing of entry into effect of manifestations of intention)
+article 97 (1) a manifestation of intention becomes effective at the time notice thereof reaches the other party.
+</premise>
+
+<hypothesis>
+ a manifestation of intention to a person at a distance will not be effective until the other party recognizes it.
+ </hypothesis>
+
+ 
+tag:0
+14
+<premise>
+(effect of rescission)
+article 121 an act that has been rescinded is deemed void ab initio.
+(obligation of restoration)
+article 121-2 (1) a person that has received payment or delivery as the performance of an obligation based on a void act has an obligation to restore the other party to the original state.
+(3) notwithstanding the provisions of paragraph (1), a person who has no mental capacity at the time of performing an act has an obligation to return to the extent currently enriched by the act. the same applies to a person who is a person with qualified legal capacity at the time of performing an act.
+</premise>
+
+<hypothesis>
+ a, a person under curatorship, may not rescind a judicial act by a after the legal representative ratifies the judicial act.
+ </hypothesis>
+
+ 
+tag:0
+37
+<premise>
+(changes in order of priority of mortgages)
+article 374 (1) the order of priority of mortgages may be changed with the agreement of all mortgagees;provided, however, that if there are interested persons, the consent of the same must be obtained.
+</premise>
+
+<hypothesis>
+ a created the first-ranked mortgage for the benefit of b, the second-ranked mortgage for the benefit of c, and the third-ranked mortgage for the benefit of d on land x, owned by a. in this case, the consent of c shall not be required in order to change the order of priority of the mortgage in the order of d, c, and b.
+ </hypothesis>
+
+ 
+tag:0
+58
+<premise>
+(recovery of deposited thing)
+article 496 (1) as long as the obligee does not accept the deposit, or the judgment which pronounces that the deposit is effective does not become final and binding, the performer may recover the deposited thingy. in such case, it is deemed that no deposit has been effected.
+</premise>
+
+<hypothesis>
+ if a performer lawfully deposits the subject matter of the performance with an official depository, the performer may not recover the deposited thing.
+ </hypothesis>
+
+ 
+tag:0
+60
+<premise>
+(deposit)
+article 494 (1) in the following cases, a performer may deposit the subject matter of the performance with an official depository for the benefit of the obligee. in such a case, the claim is extinguished when the performer makes the deposit:
+</premise>
+
+<hypothesis>
+ if a performer deposits the subject matter of the performance with an official depository for the benefit of the obligee, the claim shall be extinguished at the time when the deposited thing is returned to the obligee.
+ </hypothesis>
+
+ 
+tag:0
+62
+<premise>
+(requirements for set-offs)
+article 505 (1) if two persons bear an obligation to each other that has the same kind of purpose and if both obligations are due, each obligor may be relieved from the obligation by setting off the value of that obligation against the corresponding amount of the obligation of the other obligor;provided, however, that this does not apply if the nature of the obligation does not permit such a set-off.
+(benefit of time and waiver)
+article 136 (2) the benefit of time stipulation may be waived;provided, however, that the waiver may not prejudice the interest of the counterparty.
+</premise>
+
+<hypothesis>
+ the obligor of the claim not yet due may not set off the claim.
+ </hypothesis>
+
+ 
+tag:0
+68
+<premise>
+(cancellation of bailment by bailor prior to receipt of bailed thing)
+article 657-2 (2) a gratuitous bailee may cancel the contract up until the bailee receives the bailed thing;provided, however, that this does not apply to a bailment made in writing.
+</premise>
+
+<hypothesis>
+ if the gratuitous bailment has been made in writing, the bailor may cancel the contract up until the bailee receives the bailed thing.
+ </hypothesis>
+
+ 
+tag:0
+69
+<premise>
+(earnest money)
+article 557 (1) if the buyer pays earnest money to the seller, the buyer may cancel the contract by waiving the earnest money, or the seller may cancel the contract by actually providing the buyer with twice its amount;provided, however, that this does not apply after the counterparty commences performance of the contract.
+</premise>
+
+<hypothesis>
+ the buyer may cancel the contract by the earnest money for cancellation until the buyer commences performance of the contract even if the seller has already commenced performance of the contract.
+ </hypothesis>
+
+ 
+tag:0
+76
+<premise>
+(timing of returns)
+article 591 (2) the borrower may return the borrowed thing at any time, irrespective of whether the parties have defined the time of return of the thing.
+</premise>
+
+<hypothesis>
+ with respect to a loan for consumption under civil code, if the parties defined the time of return of the borrowed thing, the borrower may not return the thing prior to the time of return.
+ </hypothesis>
+
+ 
+tag:0
+83
+<premise>
+(appointment of sub-mandatary)
+article 644-2 (1) a mandatary may not appoint a sub-mandatary unless the mandatary obtains the permission of the mandator or there is a compelling reason to do so.
+</premise>
+
+<hypothesis>
+ a mandatary may appoint a sub-mandatary without obtaining the permission of the mandator even if there is no compelling reason to do so.
+ </hypothesis>
+
+ 
+tag:0
+88
+<premise>
+(managers' claims for reimbursement of costs)
+article 702 (1) if a manager has incurred beneficial expenses for a principal, the manager may claim reimbursement of those costs from the principal.
+(3) if a manager has engaged in the benevolent intervention in another's business against the will of the principal, the provisions of the preceding two paragraphs apply mutatis mutandis, solely to the extent currently enriched.
+</premise>
+
+<hypothesis>
+ if it becomes evident after starting the benevolent intervention in another's business that the benevolent intervention in another's business is the contrary to the will of the principal, the manager may not claim reimbursement of the costs that the manager has already paid for from the principal.
+ </hypothesis>
+
+ 
+tag:0
+92
+<premise>
+(self-defense and necessity)
+article 720 (1) a person that, in response to the tortious act of another, is compelled to commit a harmful act to protect rights or legally protected interests of the person or of a third party, is not liable for compensation for loss or damage;provided, however, that this does not preclude a victim from filing a claim of compensation for loss or damage against the person that committed the tortious act.
+</premise>
+
+<hypothesis>
+ b, who, in response to the tortious act of a, committed a harmful act to protect rights of a third party c, is liable for compensation for loss or damage even if the harmful act is compelling.
+ </hypothesis>
+
+ 
+tag:0
+97
+<premise>
+(use of bailed thing and custody by third parties)
+article 658(1) a bailee may not use the bailed thing without obtaining the consent of the bailor.
+</premise>
+
+<hypothesis>
+ a gratuitous bailee may use the bailed thing in compliance with the method of use without obtaining the consent of the bailor.
+ </hypothesis>
+
+ 
+tag:1
+5
+<premise>
+(minor or adult ward and postponement of expiry of prescription period)
+article 158 (2) if a minor or an adult ward has a right vis-a-vis the minor's or the adult ward's father, mother, or guardian who manages the property, the prescription period does not expire with respect to that right until six months have passed from the time when that minor or adult ward becomes a person with capacity to act, or a succeeding legal representative assumes the position.
+</premise>
+
+<hypothesis>
+ if a, an adult ward, has a right vis-a-vis the adult ward's guardian who manages the property, the prescription period will not expire with respect to that right until the statutory period has passed from the time when a becomes a person with capacity to act, or a succeeding legal representative assumes the position.
+ </hypothesis>
+
+ 
+tag:1
+20
+<premise>
+(merger of rights)
+article 179 (1) if ownership and another real right on the same thing are acquired by the same person, the other real right is extinguished;provided, however, that this does not apply if that thing or the other real right is the object of the right of a third party.
+</premise>
+
+<hypothesis>
+ a created the superficies on land x, owned by a, for the benefit of b, and b leased building y, built on land x, to c. in this case, if a dies and b is the only heir, the superficies for b shall be extinguished.
+ </hypothesis>
+
+ 
+tag:1
+23
+<premise>
+article 211 (1) in the cases referred to in the preceding article, the location and method of passage must be chosen so as to meet the needs of the person that is entitled to the right-of-way under the provisions of that article and cause the least damage to the other land.
+</premise>
+
+<hypothesis>
+ land x, owned by a, is surrounded by other land and has no access to a public road, and land y, owned by b, surrounds land x. a has a right to pass through land y in order to reach a public road. in this case, the location and method of passage must be chosen so as to meet the needs of a and cause the least damage to land y.
+ </hypothesis>
+
+ 
+tag:1
+25
+<premise>
+(mutatis mutandis application of provisions regarding neighboring relationships)
+article 267 the provisions of section 1, subsection 2 of the preceding chapter (neighboring relationships) apply mutatis mutandis between superficiaries or between a superficiary and a landowner;provided, however, that the mutatis mutandis application of the provisions of article 229 to superficiaries is limited to when structures on the boundary line are installed after the establishment of the superficies.
+(right-of-way over other land for access to public roads)
+article 210 (1) an owner of land that is surrounded by other land and has no access to a public road may pass through the other land that surrounds that owner's land to reach a public road.
+</premise>
+
+<hypothesis>
+ land x, owned by a, is surrounded by other land and has no access to a public road, and land y, owned by b, surrounds land x. a has a right to pass through land y in order to reach a public road. in this case, c, the superficiary of land x, may pass through land y without the consent of b.
+ </hypothesis>
+
+ 
+tag:1
+26
+<premise>
+(obligations to bear burdens regarding property in co-ownership)
+article 253
+(2) if a co-owner does not perform the obligations referred to in the preceding paragraph within one year, other co-owners may acquire that co-owner's interest by paying a reasonable compensation.
+</premise>
+
+<hypothesis>
+ a, b, and c co-own land x with one-third interest each. if one year has passed without a performing the obligation to pay b the expenses of management of land x, b may acquire the interest of a by paying a reasonable compensation.
+ </hypothesis>
+
+ 
+tag:1
+27
+<premise>
+(payment of claims regarding co-ownership)
+article 259 (1) if one of the co-owners holds a claim regarding co-ownership against other co-owners, upon partition, the portion of the property in co-ownership that belongs to the obligor may be appropriated for the payment of the same.
+</premise>
+
+<hypothesis>
+ a, b, and c co-own land x with one-third interest each. in this case, if a holds a claim for the expenses of management of land x against b, upon the partition of land x in kind, the portion that is to belong to b may be appropriated for the payment of the same.
+ </hypothesis>
+
+ 
+tag:1
+33
+<premise>
+(collection of claims by pledgees)
+article 366 (2) if monies are the subject matter of a pledged claim, the pledgee may collect the same to the extent of the portion that corresponds to the amount of the pledgee's own claim.
+</premise>
+
+<hypothesis>
+ b created a pledge over loan claim y of b against c in order to secure loan claim x of a against b, and b orally notified c to that effect. in this case, if both claim x and claim y are due, a may directly collect claim y from c to the extent of the portion that corresponds to the amount of claim x.
+ </hypothesis>
+
+ 
+tag:1
+34
+<premise>
+(collection of claims by pledgees)
+article 366
+(3) if the due date of the pledged claim referred to in the preceding paragraph arrives prior to the due date of the claim of the pledgee, the pledgee may have the third party obligor deposit with official depository that amount to be paid to the pledgee. in this case, the pledge exists over the amount so deposited.
+</premise>
+
+<hypothesis>
+ b created a pledge over loan claim y of b against c in order to secure loan claim x of a against b, and b orally notified c to that effect. in this case, if the due date of claim y arrives prior to the due date of claim x, a may have c deposit with official depository that amount to be paid.
+ </hypothesis>
+
+ 
+tag:1
+36
+<premise>
+(requirements for perfection of disposition of mortgages)
+article 377 (1) in the cases in the preceding article, the mortgagee may not duly assert the disposition of mortgages against principal obligors, guarantors, mortgagors or their respective successors unless the disposition is notified to the principal obligors or the principal obligors consent to that disposition in accordance with the provisions of article 467.
+(disposition of mortgages)
+article 376 (1) a mortgagee may apply the mortgage to secure other claims, or assign or waive that mortgage, or its order of priority, for the benefit of other obligees of the same obligor.
+</premise>
+
+<hypothesis>
+ a created a mortgage on land x, owned by a, in order to secure the obligation against b, and b assigned the mortgage to c, who was a general creditor of a. in this case, c may not duly assert the assignment of the mortgage against a unless b notifies a of this or a consents to this.
+ </hypothesis>
+
+ 
+tag:1
+39
+<premise>
+(direct satisfaction of mortgage with purchase price)
+article 378 if a third party that purchases the ownership or superficies of a mortgaged immovables pays the price of the same to a mortgagee at the request of the same mortgagee, that mortgage is terminated for the benefit of that third party.
+</premise>
+
+<hypothesis>
+ a created a mortgage on land x, owned by a, for the benefit of b and thereafter sold land x to c. in this case, if c pays the price of the same to b at the request of b, the mortgage shall be terminated.
+ </hypothesis>
+
+ 
+tag:1
+42
+<premise>
+(effect of tender of performances)
+article 492 upon tendering the performance, the obligor is relieved from any and all responsibilities which may arise from the non-performance of the obligation.
+</premise>
+
+<hypothesis>
+ a seller of a specific thing tendered the performance of the obligation of the delivery of the subject matter. in this case, if the buyer is not able to accept the subject matter, the seller shall be relieved from the responsibilities for the delay from the time when the seller tendered the performance.
+ </hypothesis>
+
+ 
+tag:1
+45
+<premise>
+(scope of exercise by subrogation)
+article 423-2 if the obligee exercises the subrogor's right, and the subject matter of the subrogor's right is divisible, the obligee may exercise the subrogor's right only to the extent of the amount of the obligee's own claim.
+</premise>
+
+<hypothesis>
+ if a holds a monitory claim against b, and b holds a monitory claim against c, a may not exercise the claim of b against c beyond the amount of a’s claim, based on the obligee’s right of subrogation to preserve the claim of a against b.
+ </hypothesis>
+
+ 
+tag:1
+47
+<premise>
+(guarantee of voidable obligations)
+article 449 if a guarantor that guarantees an obligation which may be voidable due to the principal obligor's limited capacity to act, is aware, at the time of entering into a guarantee contract, of the cause for its voidability, that guarantor is presumed to have assumed an independent obligation of the same subject matter in the event of non-performance by the principal obligor or rescission of the obligation.
+</premise>
+
+<hypothesis>
+ if a guarantor that guarantees an obligation which may be voidable due to the limited capacity to act, is aware, at the time of conclusion of the guarantee contract, of the cause for its voidability, that guarantor is presumed to have assumed an independent obligation of the same subject matter in the event of non-performance by the principal obligor or rescission of the obligation.
+ </hypothesis>
+
+ 
+tag:1
+50
+<premise>
+(responsibility of guarantor)
+article 446(1) a guarantor has the responsibility to perform the obligation of the principal obligor when the latter fails to perform that obligation.
+(requirements for set-offs)
+article 505(1) if two persons bear an obligation to each other that has the same kind of purpose and if both obligations are due, each obligor may be relieved from the obligation by setting off the value of that obligation against the corresponding amount of the obligation of the other obligor;provided, however, that this does not apply if the nature of the obligation does not permit such a set-off.
+</premise>
+
+<hypothesis>
+ if a guarantor who was requested by the obligee the performance of the guarantee obligation invokes a set-off with the guarantor’s claim against the obligee, the principal obligation shall be extinguished at the corresponding amount.
+ </hypothesis>
+
+ 
+tag:1
+55
+<premise>
+(deposit made by obligor for claim subject to manifestation of intention to restrict assignment)
+article 466-2 (1) if a claim for payment of money subject to the manifestation of intention to restrict assignment is assigned to a third party, the obligor may deposit the amount of money equivalent to the full amount of the claim with an official depository having jurisdiction over the place of performance of the obligation (including the current domicile of the assignor if the place of performance of the obligation is determined on the basis of the current domicile of the obligee; the same applies in the following article).
+</premise>
+
+<hypothesis>
+ claim x, the claim of the payment of the sales price of a against b, has a special agreement prohibiting the assignment, but claim x was assigned. in this case, b may deposit the amount of money equivalent to the full amount of the claim with an official depository.
+ </hypothesis>
+
+ 
+tag:1
+57
+<premise>
+(deposit)
+article 494 (2) the preceding paragraph also applies if the performer is unable to ascertain the obligee;provided, however, that this does not apply if the performer is negligent in this respect.
+</premise>
+
+<hypothesis>
+ if a performer is unable to ascertain the obligee without negligence, the performer may deposit the subject matter of the performance with an official depository.
+ </hypothesis>
+
+ 
+tag:1
+59
+<premise>
+(method of deposit)
+article 495 (3) a person that has effected a deposit pursuant to the provisions of the preceding article must notify the obligee of the deposit without delay.
+</premise>
+
+<hypothesis>
+ if a performer deposits the subject matter of the performance with an official depository for the benefit of the obligee, the performer must notify the obligee of the deposit without delay.
+ </hypothesis>
+
+ 
+tag:1
+64
+<premise>
+(cancellation of loan for use)
+article 598 (2) if the parties do not specify a period of a loan for use or a purpose of using and making profit from the borrowed thing, the lender may cancel the contract at any time.
+</premise>
+
+<hypothesis>
+ the loan for use without specification of the period of the loan was concluded. in this case, if there is no specification of a purpose of using and making profit from the borrowed thing, the lender may cancel the contract at any time.
+ </hypothesis>
+
+ 
+tag:1
+65
+<premise>
+(notice of termination of leases with indefinite terms)
+article 617 (1) if the parties do not specify the term of a lease, either party may give a notice of termination at any time. in such cases, a lease as set forth in one of the following items terminates when the term prescribed in that item has passed after the day of the notice of termination:
+</premise>
+
+<hypothesis>
+ in the case of a lease of movables with an indefinite term, the lessor may give a notice of termination at any time.
+ </hypothesis>
+
+ 
+tag:1
+73
+<premise>
+(loans for consumption)
+article 587 a loan for consumption becomes effective when a first party receives money or any other thing from a second party, having promised to return a thing of the same type, quality, and quantity.
+</premise>
+
+<hypothesis>
+ a loan for consumption not made in writing becomes effective when a first party receives money or any other thing from a second party, having promised to return a thing of the same type, quality, and quantity.
+ </hypothesis>
+
+ 
+tag:1
+75
+<premise>
+(interest)
+article 589 (1) in the absence of any special agreement, the lender may not demand interest from the borrower.
+</premise>
+
+<hypothesis>
+ with respect to a loan for consumption under civil code, in the absence of any special agreement, the lender may not demand interest from the borrower.
+ </hypothesis>
+
+ 
+tag:1
+77
+<premise>
+(lender's obligation to deliver)
+article 590 (2) irrespective of whether there is any special agreement referred to in paragraph (1) of the preceding article, if the thing delivered from the lender does not conform to the terms of the contract with respect to the kind or quality, the borrower may return the value of the delivered thing.
+</premise>
+
+<hypothesis>
+ with respect to a loan for consumption under civil code, if the thing delivered from the lender does not conform to the terms of the contract with respect to the kind or quality, the borrower may return the value of the delivered thing.
+ </hypothesis>
+
+ 
+tag:1
+81
+<premise>
+article 622-2 (1) if a lessor receives a security deposit (meaning money to be delivered by the lessee to the lessor under any name, for the purpose of securing an obligation to pay money that is owed by the lessee to the lessor based on a lease, such as an obligation to pay rent; hereinafter the same applies in this article), the lessor must return to the lessee the amount that remains after deducting the amount of the obligation to pay money that is owed by the lessee to the lessor based on the lease, from the amount of security deposit received, in the following cases:
+(ii) if the lessee assigns the lease lawfully.
+</premise>
+
+<hypothesis>
+ a leased building x, which b owns, from b and delivered security deposit to b, and a lawfully assigned the lease to c. in this case, a may demand the return of the security deposit from b.
+ </hypothesis>
+
+ 
+tag:1
+82
+<premise>
+(remuneration for result)
+article 648-2 (1) if the parties agree that remuneration will be paid for any result that may be obtained through the performance of the mandated business, and the result is required to be delivered, remuneration must be paid simultaneously upon the delivery of the result.
+</premise>
+
+<hypothesis>
+ if the parties agree that remuneration will be paid for any result that may be obtained through the performance of the mandated business, and the result is required to be delivered, the mandator must pay the remuneration simultaneously upon the delivery of the result.
+ </hypothesis>
+
+ 
+tag:1
+85
+<premise>
+(mandatary's claims for reimbursement of expense)
+article 650 (1) if the mandatary has expended costs found to be necessary for the administration of the mandated business, the mandatary may claim reimbursement of those costs from the mandator and any interest on the same from the day the costs were expended.
+</premise>
+
+<hypothesis>
+ if the mandatary has expended costs found to be necessary for the administration of the mandated business, the mandatary may claim reimbursement of those costs from the mandator and any interest on the same from the day the costs were expended.
+ </hypothesis>
+
+ 
+tag:1
+86
+<premise>
+(effect of cancellation of mandate)
+article 652 the provisions of article 620 apply mutatis mutandis to mandates.
+(effect of cancellations of leases)
+article 620 if a lease is cancelled, the cancellation becomes effective solely toward the future. in such a case, the cancellation does not preclude a claim for compensation for loss or damage.
+</premise>
+
+<hypothesis>
+ a cancellation of a mandate becomes effective solely toward the future.
+ </hypothesis>
+
+ 
+tag:1
+89
+<premise>
+(mutatis mutandis application of provisions on mandates)
+article 701 the provisions of article 645 through article 647 apply mutatis mutandis to the benevolent intervention in another's business.
+(reports by mandatary)
+article 645 a mandatary must, if so requested by the mandator, report the current status of the administration of the mandated business at any time, and must report the process and results without delay upon termination of the mandate.
+</premise>
+
+<hypothesis>
+ the manager must report the process and results without delay upon termination of the benevolent intervention in another's business.
+ </hypothesis>
+
+ 
+tag:1
+90
+<premise>
+(urgent benevolent intervention in another's business)
+article 698 if a manager engages in benevolent intervention in another's business in order to allow a principal to escape imminent danger to the principal's person, reputation, or property, the manager is not liable to compensate for damage resulting from this unless the manager has acted in bad faith or with gross negligence.
+</premise>
+
+<hypothesis>
+ if a manager engages in benevolent intervention in another's business in order to allow a principal to escape imminent danger to the principal's property, the manager is not liable to compensate for damage resulting from this unless the manager has acted in bad faith or with gross negligence.
+ </hypothesis>
+
+ 
+tag:1
+91
+<premise>
+(extinctive prescription of claim for compensation for loss or damage caused by tort)
+article 724 in the following cases, the claim for compensation for loss or damage caused by tort is extinguished by prescription:
+(ii) the right is not exercised within 20 years from the time of the tortious act.
+</premise>
+
+<hypothesis>
+ the claim for compensation for loss or damage caused by tort is extinguished by prescription when the right is not exercised within 20 years from the time of the tortious act.
+ </hypothesis>
+
+ 
+tag:1
+95
+<premise>
+(offers that do not specify period for acceptance)
+article 525(1) an offer made without specifying a period for acceptance may not be revoked until the passage of a reasonable period of time for the offeror to receive a notice of acceptance;provided, however, that this does not apply if the offeror reserves the right to revoke.
+</premise>
+
+<hypothesis>
+ an offer to a person at a distance made without specifying a period for acceptance may not be revoked until the passage of a reasonable period of time for the offeror to receive a notice of acceptance unless the offeror reserves the right to revoke.
+ </hypothesis>
+
+ 
+tag:1
+96
+<premise>
+(requirements for and effect of assumption of obligation not releasing obligor)
+article 470
+(3) the assumption of obligation not releasing an obligor may also be effected by a contract between the initial obligor and the person that becomes the additional obligor. in such a case, the assumption of obligation not releasing an obligor becomes effective when the obligee gives consent to the person that becomes the additional obligor.
+</premise>
+
+<hypothesis>
+ the assumption of obligation not releasing an obligor by a contract between the initial obligor and the person that becomes the additional obligor becomes effective when the obligee gives consent to the person that becomes the additional obligor.
+ </hypothesis>
+
+ 
+tag:1
+100
+<premise>
+(deposit)
+article 494(1) in the following cases, a performer may deposit the subject matter of the performance with an official depository for the benefit of the obligee. in such a case, the claim is extinguished when the performer makes the deposit:
+(i) the performer tenders the performance, and the obligee refuses to accept it; 
+(thing not suitable for deposit)
+article 497 in the following cases, the performer may, with the permission of the court, sell the thing that is the subject matter of performance at public auction and deposit the proceeds of such sales with an official depository:
+(iii) excessive expenses are required for the preservation of the thing; or
+</premise>
+
+<hypothesis>
+ a performer tendered the performance, and the obligee refused to accept it. in this case, if excessive expenses are required for the preservation of the thing, the performer may, with the permission of the court, sell the thing that is the subject matter of performance at a public auction and deposit the proceeds of such sales with an official depository.
+ </hypothesis>
+
+ 
